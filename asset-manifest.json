@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ws101-ical-navbar/static/css/main.e51baf2d.css",
+    "main.js": "/ws101-ical-navbar/static/js/main.a54b41a4.js",
+    "static/js/453.f8fc169f.chunk.js": "/ws101-ical-navbar/static/js/453.f8fc169f.chunk.js",
+    "index.html": "/ws101-ical-navbar/index.html",
+    "main.e51baf2d.css.map": "/ws101-ical-navbar/static/css/main.e51baf2d.css.map",
+    "main.a54b41a4.js.map": "/ws101-ical-navbar/static/js/main.a54b41a4.js.map",
+    "453.f8fc169f.chunk.js.map": "/ws101-ical-navbar/static/js/453.f8fc169f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e51baf2d.css",
+    "static/js/main.a54b41a4.js"
+  ]
+}
